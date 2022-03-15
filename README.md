@@ -1,2 +1,0 @@
-# SeleniumJavaPractise
-SeleniumJavaPractise
